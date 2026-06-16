@@ -1,0 +1,31 @@
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+W0000 00:00:1780762771.020961   12336 inference_feedback_manager.cc:121] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1780762771.045901   12336 inference_feedback_manager.cc:121] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1780762772.179167   14324 landmark_projection_calculator.cc:81] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+E0000 00:00:1780762891.502128   11552 portable_clearcut_uploader.cc:90] Failed to send to clearcut: FAILED_PRECONDITION: Not valid for uploading until: 2026-06-06T16:35:31.485400797+00:00
+=== Source Location Trace: ===
+wireless/android/play/playlog/cplusplus/portable_clearcut_uploader.cc:180
+E0000 00:00:1780762951.502503   11552 portable_clearcut_uploader.cc:90] Failed to send to clearcut: FAILED_PRECONDITION: Not valid for uploading until: 2026-06-06T16:35:31.485400797+00:00
+=== Source Location Trace: ===
+wireless/android/play/playlog/cplusplus/portable_clearcut_uploader.cc:180
+E0000 00:00:1780763011.516198   11552 portable_clearcut_uploader.cc:90] Failed to send to clearcut: FAILED_PRECONDITION: Not valid for uploading until: 2026-06-06T16:35:31.485400797+00:00
+=== Source Location Trace: ===
+wireless/android/play/playlog/cplusplus/portable_clearcut_uploader.cc:180
+E0000 00:00:1780763050.087599   11552 portable_clearcut_uploader.cc:90] Failed to send to clearcut: FAILED_PRECONDITION: Not valid for uploading until: 2026-06-06T16:35:31.485400797+00:00
+=== Source Location Trace: ===
+wireless/android/play/playlog/cplusplus/portable_clearcut_uploader.cc:180
+AI Air Mouse - Starting up...
+Initializing components...
+INFO: MediaPipe HandLandmarker initialized successfully
+Starting AI Air Mouse with advanced features...
+Target FPS: 60
+Multi-monitor support enabled
+Features:
+- Index finger movement with smoothing and prediction
+- Index+middle finger pinch: Left click / Hold for drag
+- Index+ring finger pinch: Right click
+- Three fingers up: Scroll up
+- Pinky finger up: Scroll down
+- Press 'q' to quit
+AI Air Mouse stopped.
+AI Air Mouse has been terminated.
